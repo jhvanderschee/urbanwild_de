@@ -16,7 +16,7 @@ slider:
     image: /uploads/sliderhome-jmplants-1.jpg
     text_color: light
     button_text: Bekijk de collectie
-    button_link: /collectie
+    button_link: /kollektion
 description_html: <p>De Dracaena Lemon Lime is op zijn minst sierlijk te noemen!</p>
 origin: West Afrika
 variants:

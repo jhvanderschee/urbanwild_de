@@ -1,11 +1,11 @@
 ---
 layout: home
 slider:
-  - title: HUIZEN ZIJN ER HELEMAAL WILD VAN!
+  - title: HÄUSER SIND GANZ WILD DARAUF!
     image: /img/sliderhome-jmplants-1.jpg
     text_color: light
-    button_text: Bekijk de collectie
-    button_link: /collectie
+    button_text: Hier finden Sie die Kollektion
+    button_link: /kollektion
   - title: Zuiverende planten voor gezond leven
     image: /uploads/slide-Philodendron-Xanadu.jpg
     text_color: dark

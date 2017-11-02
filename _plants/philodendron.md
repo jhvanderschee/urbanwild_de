@@ -16,7 +16,7 @@ slider:
     image: /uploads/sliderhome-jmplants-1.jpg
     text_color: light
     button_text: Ontdek welke jij nog mist
-    button_link: /collectie
+    button_link: /kollektion
 description_html: <p>De Pilodendronfamilie is er &eacute;&eacute;n om niet snel te vergeten!</p>
 origin: Midden en Zuid Amerika
 variants:
