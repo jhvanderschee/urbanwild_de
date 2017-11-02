@@ -8,11 +8,11 @@
 <div class="navmenu navmenu-default navmenu-fixed-left offcanvas">
       <ul class="nav navmenu-nav">
               <li><a href="/#top">Home</a></li>
-              <li><a href="/verzorging">Verzorging</a></li>
-              <li><a href="/#collectie">Collectie</a></li>
-              <li><a href="/#luchtzuiverend">Luchtzuiverend</a></li>
+              <li><a href="/pflege">Pflege</a></li>
+              <li><a href="/#kollektion">Kollektion</a></li>
+              <li><a href="/#luftreinigend">Luftreinigend</a></li>
               <li><a href="/jmplants">JM Plants</a></li>
-              <li><a href="/contact">Contact</a></li>
+              <li><a href="/kontakt">Kontakt</a></li>
       </ul>
 </div>
           <div class="navbar-header">
@@ -29,12 +29,12 @@
           <div id="navbar" class="navbar-collapse collapse">
             <ul class="nav navbar-nav">
               <li><a href="{% if page.layout == 'home' %}#top{% else %}/{% endif %}">Home</a></li>
-              <li class="{% if page.layout == 'verzorging' %}active{% endif %} hidden-sm"><a href="/verzorging">Verzorging</a></li>
-              <li class="{% if page.layout == 'collectie' %}active{% endif %}"><a href="{% if page.layout == 'home' %}{% else %}/{% endif %}#collectie">Collectie</a></li>
+              <li class="{% if page.layout == 'verzorging' %}active{% endif %} hidden-sm"><a href="/pflege">Pflege</a></li>
+              <li class="{% if page.layout == 'collectie' %}active{% endif %}"><a href="{% if page.layout == 'home' %}{% else %}/{% endif %}#collectie">Kollektion</a></li>
               <li><a href="{% if page.layout == 'home' %}{% else %}/{% endif %}#top" id="logo"><img src="/img/urbanwildlogo.png" /></a></li>
-              <li class="hidden-sm"><a href="{% if page.layout == 'home' %}{% else %}/{% endif %}#luchtzuiverend">Luchtzuiverend</a></li>
+              <li class="hidden-sm"><a href="{% if page.layout == 'home' %}{% else %}/{% endif %}#luftreinigend">Luftreinigend</a></li>
               <li class="{% if page.layout == 'jmplants' %}active{% endif %}"><a href="/jmplants">JM Plants</a></li>
-              <li class="{% if page.layout == 'contact' %}active{% endif %}"><a href="/contact">Contact</a></li>
+              <li class="{% if page.layout == 'contact' %}active{% endif %}"><a href="/kontakt">Kontakt</a></li>
             </ul>
           </div><!--/.nav-collapse -->
         </div><!--/.container -->

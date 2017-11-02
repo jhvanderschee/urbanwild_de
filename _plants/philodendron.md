@@ -11,7 +11,7 @@ slider:
     image: /uploads/slide-Philodendron-Xanadu.jpg
     text_color: dark
     button_text: Ontdek wat planten jou bieden
-    button_link: '/#luchtzuiverend'
+    button_link: '/#luftreinigend'
   - title: Heb jij je jungle al compleet?
     image: /uploads/sliderhome-jmplants-1.jpg
     text_color: light

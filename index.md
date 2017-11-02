@@ -10,7 +10,7 @@ slider:
     image: /uploads/slide-Philodendron-Xanadu.jpg
     text_color: dark
     button_text: Ontdek wat planten jou bieden
-    button_link: '/#luchtzuiverend'
+    button_link: '/#luftreinigend'
   - title: Hou je jungle wild!
     image: /img/slider_monstera.jpg
     text_color: light

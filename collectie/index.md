@@ -16,7 +16,7 @@ slider:
     image: /uploads/slide-Philodendron-Xanadu.jpg
     text_color: dark
     button_text: Bekijk wat planten jou bieden
-    button_link: '/#luchtzuiverend'
+    button_link: '/#luftreinigend'
 ---
 
 

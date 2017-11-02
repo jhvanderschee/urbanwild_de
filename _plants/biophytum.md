@@ -6,7 +6,7 @@ slider:
     image: /uploads/slide-Alocasia-Wentii.jpg
     text_color: light
     button_text: Ontdek wat planten jou bieden
-    button_link: '/#luchtzuiverend'
+    button_link: '/#luftreinigend'
   - title: Hou je jungle wild
     image: /uploads/slide-Philodendron-Xanadu.jpg
     text_color: dark
