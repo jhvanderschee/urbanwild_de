@@ -1,0 +1,82 @@
+<!DOCTYPE html>
+<html>
+
+  {% include head.html %}
+
+  <body data-spy="scroll" data-target="#navbar" data-offset="300" class="{{ page.layout }}" onload="">
+  <div id="splash"><table cellpadding="0" cellspacing="0"><tr><td><img src="/img/urbanwildlogo.png" /></td></tr></table></div>
+  <div id="nonsplash">
+    <div id="innernonsplash">
+  <script>document.getElementById('nonsplash').style.display = 'none';</script>
+    {% include header.html %}
+
+
+
+    <div class="light" id="over">
+      <div class="container">
+        <div class="row">
+            <div class="col-xs-12 text-left">
+                      <h2 class="post-title editable">URBAN WILD -Huizen zijn er helemaal wild van!</h2>
+            </div> 
+        </div>
+        <div class="row">
+            <div class="col-lg-12 text-left editable"><p><strong>Haal de jungle in huis. Een jungle met grote verfrissend groene planten. &nbsp;Stoere planten, bijzondere soorten. Maak het spannend thuis met Urban Wild. Als je durft tenminste...</strong></p></div>
+          </div>
+      </div>
+    </div>
+
+    <div class="light collectie2" id="collectie">
+      <div class="container">
+        <div class="row">
+            <div class="col-xs-12 text-left">
+                      <h2 class="post-title editable">Collectie</h2>
+            </div> 
+        </div>
+      </div>
+      <div class="container" style="padding: 0 15px;">
+          {% assign siteplants = site.plants | sort: 'order' %}
+          {% for item in siteplants limit:7 %}
+              {% if forloop.index < 3 or forloop.index == 5 or forloop.index == 6 or forloop.index == 8 or forloop.index == 9 %}
+                <div class="plant item{{ forloop.index }}" style="background: white url('//images.weserv.nl/?url=urban-wild.com{{ item.image | replace:' ','%20' }}&w=800&h=800&t=fit') center center no-repeat; background-size: contain;" onclick="window.location.href='{{ item.url }}'"></div>
+                <div class="square" onclick="window.location.href='{{ item.url }}'"><div style="text-align: center;"><h3>{{ item.title }}</h3>
+                {% for subitem in item.variants %}
+                  {% if forloop.index == 1 %}{{ forloop.length }} variant{% if forloop.length > 1 %}en{% endif %}{% endif %}
+                {% endfor %}</div></div>
+              {% else %}
+                <div class="square" onclick="window.location.href='{{ item.url }}'"><div style="text-align: center;"><h3>{{ item.title }}</h3>
+                {% for subitem in item.variants %}
+                  {% if forloop.index == 1 %}{{ forloop.length }} variant{% if forloop.length > 1 %}en{% endif %}{% endif %}
+                {% endfor %}</div></div>
+                <div class="plant item{{ forloop.index }}" style="background: white url('//images.weserv.nl/?url=urban-wild.com{{ item.image | replace:' ','%20' }}&w=800&h=800&t=fit') center center no-repeat; background-size: contain;" onclick="window.location.href='{{ item.url }}'"></div>
+              {% endif %}
+          {% endfor %}
+
+          <a href="/collectie" class="btn editable" style="display: inline-block; float: none; clear: both; width: auto; margin: 25px auto 0;">Bekijk de volledige collectie</a>
+      </div>
+    </div>
+
+
+    <div class="light" id="luchtzuiverend">
+      <div class="container">
+        <div class="row">
+          <div class="col-lg-12 text-left"> 
+            <h2 class="post-title editable">Luchtzuiverend</h2>
+            <div class="editable">
+            <p>Planten van Urban Wild zuiveren de lucht in huis. De soorten zijn zelfs specifiek gekozen op hun grote capaciteit
+om de lucht in huis gezond te houden. In onze leefomgeving komen veel giftige stoffen voor. Wat de planten doen, is
+die chemische stoffen in de lucht opnemen en afbreken. Ook halen planten CO2 uit de lucht om die om te zetten in
+zuurstof. De verdamping van een plant draagt ook bij aan een betere luchtvochtigheid in huis. Verder wordt fijnstof
+gebonden door het blad van planten. Dat maakt Urban Wild niet alleen mooi om te zien, maar ook fijn om in te leven!</p>
+              </div>
+          </div>
+        </div>
+      </div>
+    </div>
+
+  
+
+    {% include footer.html %}
+</div>
+  </div></body>
+
+</html>
