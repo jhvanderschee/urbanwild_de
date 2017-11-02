@@ -40,18 +40,18 @@
                 <div class="plant item{{ forloop.index }}" style="background: white url('//images.weserv.nl/?url=urban-wild.com{{ item.image | replace:' ','%20' }}&w=800&h=800&t=fit') center center no-repeat; background-size: contain;" onclick="window.location.href='{{ item.url }}'"></div>
                 <div class="square" onclick="window.location.href='{{ item.url }}'"><div style="text-align: center;"><h3>{{ item.title }}</h3>
                 {% for subitem in item.variants %}
-                  {% if forloop.index == 1 %}{{ forloop.length }} variant{% if forloop.length > 1 %}en{% endif %}{% endif %}
+                  {% if forloop.index == 1 %}{{ forloop.length }} Variante{% if forloop.length > 1 %}n{% endif %}{% endif %}
                 {% endfor %}</div></div>
               {% else %}
                 <div class="square" onclick="window.location.href='{{ item.url }}'"><div style="text-align: center;"><h3>{{ item.title }}</h3>
                 {% for subitem in item.variants %}
-                  {% if forloop.index == 1 %}{{ forloop.length }} variant{% if forloop.length > 1 %}en{% endif %}{% endif %}
+                  {% if forloop.index == 1 %}{{ forloop.length }} Variante{% if forloop.length > 1 %}n{% endif %}{% endif %}
                 {% endfor %}</div></div>
                 <div class="plant item{{ forloop.index }}" style="background: white url('//images.weserv.nl/?url=urban-wild.com{{ item.image | replace:' ','%20' }}&w=800&h=800&t=fit') center center no-repeat; background-size: contain;" onclick="window.location.href='{{ item.url }}'"></div>
               {% endif %}
           {% endfor %}
 
-          <a href="/kollektion" class="btn editable" style="display: inline-block; float: none; clear: both; width: auto; margin: 25px auto 0;">Bekijk de volledige collectie</a>
+          <a href="/kollektion" class="btn editable" style="display: inline-block; float: none; clear: both; width: auto; margin: 25px auto 0;">Hier finden Sie die gesamte Kollektion</a>
       </div>
     </div>
 
