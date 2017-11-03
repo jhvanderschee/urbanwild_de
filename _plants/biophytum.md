@@ -23,12 +23,13 @@ variants:
   - title: SENSITIVUM
     image: /uploads/20151013759-Biophytum 9cm.jpg
     description_html: >-
-      De Biophytum Sensitivum is een plant die ook wel de minipalm wordt
-      genoemd. En het ‘sensitivum’ slaat op een heel bijzondere eigenschap: raak
-      de plant voorzichtig aan en je ziet de bladeren bewegen! Schrik niet als
-      tegen de avond de bladeren wat slapjes worden: dat is normaal. In de
-      Oosterse cultuur wordt de plant gewaardeerd om de medicinale
-      eigenschappen.
+      <p>Die Biophytum sensitivum wird auch als Minipalme bezeichnet. Der
+      Namenszusatz &bdquo;sensitivum&ldquo; steht f&uuml;r eine ganz besondere
+      Eigenschaft: Wenn man die Bl&auml;tter vorsichtig ber&uuml;hrt, sieht man,
+      wie sie sich bewegen! Erschrecken Sie nicht, wenn die Bl&auml;tter gegen
+      Abend etwas schlaffer werden &ndash; das ist bei dieser Pflanze
+      v&ouml;llig normal. Im asiatischen Raum wird sie auch wegen ihrer
+      medizinischen Eigenschaften gesch&auml;tzt.</p>
 order: 1
 ---
 
