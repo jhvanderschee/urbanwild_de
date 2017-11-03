@@ -18,7 +18,7 @@ slider:
     button_text: Ontdek welke jij nog mist
     button_link: /kollektion
 description_html: <p>De Pilodendronfamilie is er &eacute;&eacute;n om niet snel te vergeten!</p>
-origin: Midden en Zuid Amerika
+origin: Mittel- und Südamerika
 variants:
   - title: IMPERIAL RED
     image: /uploads/20151012592-Philodendron imperial red.jpg
