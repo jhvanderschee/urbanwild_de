@@ -17,9 +17,7 @@ slider:
     text_color: dark
     button_text: Ontdek welke jij nog mist
     button_link: /kollektion
-description_html: >-
-  <p>Ganz sch&ouml;n wild sieht sie aus, die Monstera mit ihren
-  monsterm&auml;&szlig;ig gro&szlig;en, durchl&ouml;cherten Bl&auml;ttern.</p>
+description_html: '<p>Ganz sch&ouml;n wild sieht sie aus, die Monstera.</p>'
 origin: Mittelamerika
 variants:
   - title: MONSTERA
@@ -50,4 +48,4 @@ order: 1
 ---
 
 
-Ganz sch&ouml;n wild sieht sie aus, die Monstera mit ihren monsterm&auml;&szlig;ig gro&szlig;en, durchl&ouml;cherten Bl&auml;ttern.
+Ganz sch&ouml;n wild sieht sie aus, die Monstera.
