@@ -18,7 +18,7 @@ slider:
     button_text: Bekijk de collectie
     button_link: /kollektion
 description_html: <p>Met een Dieffenbachia in huis zuiver je meteen de lucht!</p>
-origin: Zuid- en Midden-Amerika
+origin: Süd- und Mittelamerika
 variants:
   - title: REFLECTOR
     image: /uploads/20151012568-Dieffenbachia Reflector.jpg
