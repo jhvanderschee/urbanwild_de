@@ -18,7 +18,7 @@ slider:
     button_text: Bekijk de collectie
     button_link: /kollektion
 description_html: <p>De Alocasia wordt ook wel &lsquo;Olifantsoor&rsquo; genoemd.</p>
-origin: Zuidoost Azië
+origin: Südostasien
 variants:
   - title: WENTII
     image: /uploads/plant.png
