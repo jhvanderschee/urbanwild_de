@@ -23,17 +23,19 @@ variants:
   - title: WENTII
     image: /uploads/plant.png
     description_html: >-
-      <p>Doet &lsquo;Alocasia&rsquo; geen belletje bij je rinkelen? Het is de
-      chique Latijnse naam voor de plant die bij ons gewoon
-      &lsquo;Olifantsoor&rsquo; heet. En je snapt meteen waarom: het is een
-      plant met forse bladeren, die een beetje doen denken aan de oren van een
-      olifant. Daarmee is het een pracht van een plant als je flink de ruimte
-      hebt in een kamer.</p><p>De Alocasia Wentii spreekt qua blad nog het meest
-      tot de verbeelding van een olifantsoor. Hij trekt meteen bewonderende
-      blikken in de kamer met zijn diep donkergroene, grote bladeren. En
-      terecht! Vergeet niet dat de Alocasia uit het tropische - en dus natte -
-      oerwoud komt en dat de plant veel water nodig heeft. Dan kun je er lang
-      van genieten, want de verzorging is eenvoudig.</p>
+      <p>Sagt &bdquo;Alocasia&ldquo; Ihnen nichts? Den meisten ist diese Pflanze
+      auch nicht unter ihrem lateinischen Namen gel&auml;ufig, sondern eher als
+      &bdquo;Elefantenohr&ldquo;. Und man versteht auch sofort, warum: Die
+      Pflanze hat m&auml;chtige Bl&auml;tter, die entfernt an die Ohren eines
+      Elefanten erinnern. Damit ist sie eine pr&auml;chtige Zierde f&uuml;r
+      alle, die viel Platz im Wohnzimmer haben.</p><p>&nbsp;</p><p>Von allen
+      Alocasia-Varianten haben die Bl&auml;tter der Alocasia wentii noch die
+      meiste &Auml;hnlichkeit mit Elefantenohren. Mit ihren gro&szlig;en, tief
+      dunkelgr&uuml;nen Bl&auml;ttern zieht sie sofort bewundernde Blicke auf
+      sich, und das zu Recht! Denken Sie daran, dass die Alocasia aus dem
+      tropischen &ndash; also nassfeuchten &ndash; Urwald stammt und daher viel
+      Wasser braucht. Wenn sie das bekommt, macht sie Ihnen jahrelang Freude,
+      denn die Pflege ist ansonsten ganz einfach.</p>
   - title: CUCULLATA
     image: /uploads/20151012609-Alocasia Cucullata.jpg
     description_html: >-
