@@ -23,27 +23,30 @@ variants:
   - title: IMPERIAL RED
     image: /uploads/20151012592-Philodendron imperial red.jpg
     description_html: >-
-      <p>Philodendron is een plant met heel veel familieleden: wel meer dan
-      honderd, die allemaal voorkomen in Midden- en Zuid-Amerika. Opvallend zijn
-      de grote, stevige bladeren die de plant een heel eigen karakter geven.
-      Elke Philodendron heeft weer andere bladeren, van ovaal en spits tot
-      hartvormig. Er zijn meerdere groentinten, maar ook zelfs rode varianten.
-      En met een beetje gemak groeit deze oersterke plant uit tot een flink
-      formaat!</p><p>En als er &eacute;&eacute;n Philodendron decoratief is, is
-      het wel deze: de Imperial Red. De kleur is dieprood, bijna paars. Met
-      z&rsquo;n grote bladeren is het een echte blikvanger in huis.</p>
+      <p>Die Philodendron-Familie hat viele Mitglieder: &uuml;ber hundert Arten,
+      die alle in Mittel- und S&uuml;damerika heimisch sind. Auff&auml;llig sind
+      die gro&szlig;en, festen Bl&auml;tter, die der Pflanze einen ganz eigenen
+      Charakter verleihen. Jeder Philodendron hat eine andere Blattform, von
+      oval bis spitz oder auch herzf&ouml;rmig. Die Pflanze kommt in mehreren
+      Gr&uuml;nt&ouml;nen vor, es gibt aber auch rote Varianten. Und selbst mit
+      relativ wenig Pflegeaufwand erreicht sie beeindruckende
+      Ausma&szlig;e!</p><p>Einer der dekorativsten Philodendren ist der Imperial
+      Red mit seiner tiefroten, fast violetten F&auml;rbung. Die gro&szlig;en
+      Bl&auml;tter sind ein echter Blickfang im Haus.</p>
   - title: IMPERIAL GREEN
     image: /uploads/20151012583- Philodendron imperial green.jpg
     description_html: >-
-      <p>De Philodendron Imperial Green is familie van de Imperial Red, maar dan
-      helemaal in het groen. Het heldergroene blad geeft elke kamer meteen een
-      jungle-uitstraling mee. Deze topper is super gemakkelijk te verzorgen.</p>
+      <p>Der Philodendron Imperial Green ist ein Verwandter des Imperial Red,
+      allerdings ganz in Gr&uuml;n. Die hellgr&uuml;nen Bl&auml;tter sorgen
+      f&uuml;r ein richtiges Dschungel-Feeling im Zimmer. Auch dieser Champion
+      ist absolut pflegeleicht.</p>
   - title: XANADU
     image: /uploads/20151012600-Philodendron Xanadu.jpg
     description_html: >-
-      <p>De Philodendron is er ook in een compacte, volle uitvoering: de Xanadu.
-      En kijk niet verrast op als het soort later heel opvallende luchtwortels
-      krijgt! Bij deze plant geldt: hoe ouder hoe mooier!</p>
+      <p>Vom Philodendron gibt es auch eine kompakte, dichtere Ausf&uuml;hrung:
+      den Philodendron Xanadu. Eine Besonderheit sind die auff&auml;lligen
+      Luftwurzeln, die diese Pflanze mit zunehmendem Alter bildet. Hier gilt: je
+      &auml;lter, desto sch&ouml;ner!</p>
 order: 1
 ---
 
