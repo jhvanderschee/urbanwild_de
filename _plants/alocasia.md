@@ -39,12 +39,12 @@ variants:
   - title: CUCULLATA
     image: /uploads/20151012609-Alocasia Cucullata.jpg
     description_html: >-
-      <p>De Alocasia Cucullata heeft bladeren die wijd uiteen staan. Daarmee is
-      het een plant die overal in het oog springt. De Alocasia wordt ook wel
-      &lsquo;Olifantsoor&rsquo; genoemd. En wist je dat het een Alocasia is die
-      ook onder mild winterse omstandigheden buiten kan overleven, op een
-      beschut plekje? Het blad zal af vallen, maar dat keert in de lente gewoon
-      weer terug.</p>
+      <p>Die Alocasia Cucullata hat weit auseinanderstehende Bl&auml;tter, mit
+      denen sie &uuml;berall sofort ins Auge f&auml;llt. Die Alocasia ist auch
+      unter dem Namen &bdquo;Elefantenohr&ldquo; bekannt. Wussten Sie, dass
+      diese Alocasia an einem gesch&uuml;tzten Ort auch milde Winter im Freien
+      gut &uuml;bersteht? Ihre Bl&auml;tter wirft sie dann zwar ab, doch diese
+      treiben im Fr&uuml;hjahr neu aus.</p>
   - title: DWARF AMAZONICA
     image: /uploads/20151012550-Alocasia Dwarf Amazonica_website.jpg
     description_html: >-
