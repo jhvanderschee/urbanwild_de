@@ -23,26 +23,29 @@ variants:
   - title: Bicajoux Gekko
     image: /uploads/20151012294- Calathea Bicajoux Gekko- 1 cm.jpg
     description_html: >-
-      <p>Is de &lsquo;gewone&rsquo; Calathea al bijzonder, de Calathea Bicajoux
-      Gekko mag gerust exclusief worden genoemd. Het is een plant met bijna
-      schilderachtige tekeningen op het blad. De bloemen zijn al even fraai, met
-      hun roze tint. Wist je dat je wel 20 weken plezier kunt hebben van de
-      bloemen?</p><p>De Calathea komt oorspronkelijk uit het oerwoud rond de
-      Amazone in Zuid-Amerika. Groeit daar in de onderste laag van het oerwoud
-      waar veel schaduw is. Mag ook thuis wat meer schaduw hebben. Plant met
-      schitterende tekeningen en vormen op de bladeren.</p><p>Extra bijzonder
-      doordat de plant &lsquo;fluistert&rsquo;: &rsquo;s morgens gaan de
-      bladeren met licht geritsel open, &rsquo;s avonds sluiten ze zich ook
-      weer. Plant die erom bekend staat de lucht te zuiveren.</p>
+      <p>Wenn die &bdquo;gew&ouml;hnliche&ldquo; Calathea schon eine
+      Besonderheit ist, kann die Calathea Bicajoux Gecko ruhig als exklusiv
+      bezeichnet werden. Die Pflanze kennzeichnet sich durch eine geradezu
+      malerische Zeichnung auf dem Blatt und durch ebenso sch&ouml;ne
+      Bl&uuml;ten in einem zarten Rosaton. Wussten Sie, dass Sie an diesen
+      Bl&uuml;ten bis zu 20 Wochen Freude haben
+      k&ouml;nnen?</p><p>&nbsp;</p><p>Die Calathea kommt urspr&uuml;nglich aus
+      dem Urwald am Amazonas in S&uuml;damerika, wo sie auf dem schattenreichen
+      Urwaldboden w&auml;chst. Daher mag sie es auch bei Ihnen zu Hause eher
+      schattig. Diese Pflanze besticht durch ihre wundersch&ouml;n gemusterten
+      Bl&auml;tter.</p><p>Besonderheit: Morgens &ouml;ffnen sich die
+      Bl&auml;tter mit einem leichten Rascheln und abends schlie&szlig;en sie
+      sich wieder. Die Pflanze ist zudem f&uuml;r ihre luftreinigenden
+      F&auml;higkeiten bekannt.</p>
   - title: Warscewiczii
     image: /uploads/20151012491 Calathea- Warscewiczii.jpg
     description_html: >-
-      <p>Deze Calathea Warscewiczii heeft misschien wel de moeilijkste naam van
-      allemaal, maar het is ook wel een heel aparte. De bladeren zijn zacht,
-      bijna fluweelachtig. En niet voor niets heeft deze vari&euml;teit de
-      bijnaam van &lsquo;pauwenplant&rsquo;: onderaan de bladeren vind je een
-      heel decoratieve paarse kleur, gecombineerd met diepgroen aan de
-      oppervlakte.</p>
+      <p>Die Calathea Warscewiczii hat den vielleicht kompliziertesten Namen von
+      allen, sie ist aber auch eine wahre Diva mit ihren samtig weichen
+      Bl&auml;ttern. Und nicht von ungef&auml;hr wird sie auch
+      &bdquo;Pfauenpflanze&ldquo; genannt: Die Unterseite der Bl&auml;tter hat
+      eine dekorative violette F&auml;rbung, w&auml;hrend die Oberseite
+      tiefgr&uuml;n daherkommt.</p>
   - title: Rufibarba
     image: /uploads/20151012530-Calathea Rufibarba.jpg
     description_html: >-
