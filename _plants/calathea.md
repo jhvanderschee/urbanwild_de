@@ -49,37 +49,42 @@ variants:
   - title: Rufibarba
     image: /uploads/20151012530-Calathea Rufibarba.jpg
     description_html: >-
-      <p>Opvallend bij deze Calathea Rufibarba zijn de lange, smalle bladeren
-      met een opvallende golfachtige rand. Ze zijn egaal gekleurd, lichtgroen
-      tot grijsgroen van de bovenkant en dieprood van onderen.</p>
+      <p>Das Auff&auml;llige an der Calathea Rufibarba sind die langen, schmalen
+      Bl&auml;tter mit ihrem gewellten Rand. Sie sind gleichm&auml;&szlig;ig
+      gef&auml;rbt, hellgr&uuml;n bis graugr&uuml;n auf der Oberseite und
+      tiefrot von unten.</p>
   - title: Stromanthe Sanguinea Triostar
     image: /uploads/20151012521-Calathea Stromanthe sanguinea Triostar.jpg
     description_html: >-
-      <p>&lsquo;Triostar&rsquo; is niet toevallig de soortnaam van deze
-      Calathea: het is een soort met drie kleuren in het blad, die speelse
-      combinaties vormen. De bladeren zijn afwisselend roze, wit en groen en dat
-      maakt deze Calathea altijd weer anders. Vooral met kunstlicht kan een
-      mooie roze gloed ontstaan.</p>
+      <p>Nicht umsonst tr&auml;gt diese Calathea den Namen
+      &bdquo;Triostar&ldquo;: Diese Variante hat dreifarbige Bl&auml;tter, die
+      f&uuml;r einen verspielten Effekt sorgen. Die Bl&auml;tter sind
+      abwechselnd rosa, wei&szlig; und gr&uuml;n und machen diese Calathea zu
+      einer besonderen Erscheinung. Vor allem bei Kunstlicht entsteht eine
+      sch&ouml;ne rosarote Glut.</p>
   - title: Orbifolia
     image: /uploads/calathea-orbifolia.jpg
     description_html: >-
-      <p>De Calathea Orbifolia herken je meteen aan het bijzondere blad: breed
-      en rond, met bladnerven die heel opvallende grote vlekken vertonen. En het
-      lijkt wel of bij elke plant de kleurtekening weer anders is!</p>
+      <p>Die Calathea Orbifolia erkennt man sofort an ihren besonderen
+      Bl&auml;ttern: breit und rund, mit Blattadern, die auff&auml;llige
+      gro&szlig;e Flecken aufweisen. Die Zeichnung scheint zudem bei jeder
+      Pflanze unterschiedlich zu sein.</p>
   - title: Insigne
     image: /uploads/calathea-insigne.jpg
     description_html: >-
-      <p>Een productiefoutje van Moeder Natuur, die vlekken op het blad? Nee,
-      dat is nu juist het opvallende motief van de Calathea Insigne! Aan de
-      onderkant is het blad juist weer frisgroen, met diep donkere spikkels.</p>
+      <p>Sind die Flecken auf dem Blatt etwa ein Produktionsfehler von Mutter
+      Natur? Nein, sie bilden gerade das auff&auml;llige Motiv der Calathea
+      Insigne! Auf der Unterseite sind die Bl&auml;tter frischgr&uuml;n mit
+      tiefdunklen Tupfen.</p>
   - title: Makoyana
     image: /uploads/calathea--makoyana.jpg
     description_html: >-
-      <p>Een van de meest sprekende Calathea&rsquo;s die er zijn, met
-      zilvergroen tot olijfgroene bladeren die bijna rond zijn: de Makoyana. Wie
-      goed kijkt, zie fijne, donkergroene lijntjes aan weerszijden van de
-      middennerf. Ook de onderkant van het blad is het bestuderen waard: die is
-      zilverwit met rood-paarse vlekken.</p>
+      <p>Eine der eindrucksvollsten Calathea-Varianten ist die Calathea Makoyana
+      mit ihren silber- bis olivgr&uuml;nen, nahezu runden Bl&auml;ttern. Wer
+      gut hinschaut, erkennt feine dunkelgr&uuml;ne Linien auf beiden Seiten der
+      mittleren Blattader. Auch die Unterseite des Blattes lohnt einen
+      n&auml;heren Blick. Diese ist silbrig wei&szlig; mit rot-violetten
+      Flecken.</p>
   - title: Sanderiana Ornata
     image: /uploads/calathea-sanderiana-ornata.jpg
     description_html: >-
