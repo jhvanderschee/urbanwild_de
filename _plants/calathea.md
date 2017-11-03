@@ -18,7 +18,7 @@ slider:
     button_text: Bekijk de collectie
     button_link: /kollektion
 description_html: <p>De Calathea staat erom bekend dat de bladeren lijken te 'fluisteren'.</p>
-origin: Zuid Amerika
+origin: Südamerika
 variants:
   - title: Bicajoux Gekko
     image: /uploads/20151012294- Calathea Bicajoux Gekko- 1 cm.jpg
