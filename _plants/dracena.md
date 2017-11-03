@@ -18,14 +18,15 @@ slider:
     button_text: Bekijk de collectie
     button_link: /kollektion
 description_html: <p>De Dracaena Lemon Lime is op zijn minst sierlijk te noemen!</p>
-origin: West Afrika
+origin: Westafrika
 variants:
   - title: LEMON LIME
     image: /uploads/20151012624-Draceana Lemon Lime.jpg
     description_html: >-
-      <p>De Dracaena Lemon Lime maakt elke kamer bijzonder met schitterende
-      limoenkleuren. Het is een afwisseling van diep en licht groen. Dat zorgt
-      voor een sierlijk effect.</p>
+      <p>Die Dracaena Lemon Lime bringt mit ihrem pr&auml;chtigen Limonenton
+      einen frischen Farbtupfer in jedes Zimmer. Die dunkel- und hellgr&uuml;n
+      gestreiften Bl&auml;tter sorgen f&uuml;r einen &auml;u&szlig;erst
+      dekorativen Effekt.</p>
 order: 1
 ---
 
