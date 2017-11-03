@@ -19,14 +19,7 @@ slider:
     button_link: /kollektion
 description_html: >-
   <p>Ganz sch&ouml;n wild sieht sie aus, die Monstera mit ihren
-  monsterm&auml;&szlig;ig gro&szlig;en, durchl&ouml;cherten Bl&auml;ttern.
-  Bekannt ist sie gemeinhin als &bdquo;Fensterblatt&ldquo;. Die typischen
-  L&ouml;cher im Blatt, die f&uuml;r den echten Dschungeleffekt sorgen, bekommt
-  die Pflanze erst, wenn sie etwas &auml;lter ist.</p><p>Die Monstera ist ideal
-  f&uuml;r alle, die nicht viel Zeit f&uuml;r die Pflege aufbringen k&ouml;nnen
-  oder wollen. Die Pflanze gedeiht n&auml;mlich trotzdem problemlos und bringt
-  zugleich ein gesundes Klima ins Haus, denn die Bl&auml;tter filtern
-  Schadstoffe aus der Luft.</p>
+  monsterm&auml;&szlig;ig gro&szlig;en, durchl&ouml;cherten Bl&auml;ttern.</p>
 origin: Mittelamerika
 variants:
   - title: MONSTERA
@@ -57,3 +50,4 @@ order: 1
 ---
 
 
+Ganz sch&ouml;n wild sieht sie aus, die Monstera mit ihren monsterm&auml;&szlig;ig gro&szlig;en, durchl&ouml;cherten Bl&auml;ttern.
