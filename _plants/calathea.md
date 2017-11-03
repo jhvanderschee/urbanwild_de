@@ -88,10 +88,11 @@ variants:
   - title: Sanderiana Ornata
     image: /uploads/calathea-sanderiana-ornata.jpg
     description_html: >-
-      <p>Blikvanger in elke kamer: de Calathea Sanderiana Ornata, met
-      decoratieve ronde en brede bladeren en breed gevlekte bladnerven.
-      Opvallend aan dit type Calathea zijn de witte bladnerven, die op de
-      neutraal groene basis extra opvallen.</p>
+      <p>Ein Blickfang in jedem Zimmer ist die Calathea Sanderiana Ornata mit
+      dekorativen runden, ausladenden Bl&auml;ttern und breit gefleckten
+      Blattadern. Auff&auml;llig an dieser Calathea-Variante sind die
+      wei&szlig;en Blattadern, die auf dem einfarbig gr&uuml;nen Blattgrund
+      besonders hervorstechen.</p>
 order: 1
 ---
 
