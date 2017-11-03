@@ -1,5 +1,5 @@
 ---
-title: Collectie
+title: Kollektion
 layout: collectie
 slider:
   - title: Wie wil deze beauty nou niet?
