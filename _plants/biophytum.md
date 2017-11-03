@@ -18,7 +18,7 @@ slider:
     button_text: Bekijk de collectie
     button_link: /kollektion
 description_html: <p>De Biophytum Sensitivum lijkt net een minipalm.</p>
-origin: Brazilië
+origin: Brasilien
 variants:
   - title: SENSITIVUM
     image: /uploads/20151013759-Biophytum 9cm.jpg
