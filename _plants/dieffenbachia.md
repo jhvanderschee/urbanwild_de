@@ -23,24 +23,28 @@ variants:
   - title: REFLECTOR
     image: /uploads/20151012568-Dieffenbachia Reflector.jpg
     description_html: >-
-      <p>Het is een plant die zich thuis voelt in de tropen van Zuid- en
-      Midden-Amerika, maar ook in de Europese huiskamers: de
-      Dieffenbachia.</p><p>Vooral de bijzondere tekening van de bladeren maakt
-      de Dieffenbachia zo geliefd. Elke soort heeft weer andere bladeren, met
-      tinten die vari&euml;ren tussen groen in vele tinten, geel en wit.
-      Bovendien haal je meteen gezonde lucht in huis, want de Dieffenbachia is
-      een 100% natuurlijke luchtzuiveraar.</p><p>Bij de Dieffenbachia Reflector
-      gaan groen en lichtgroen fraai samen in het blad.</p>
+      <p>Sie f&uuml;hlt sich wohl in den Tropen S&uuml;d- und Mittelamerikas,
+      aber auch in europ&auml;ischen Wohnzimmern: die Dieffenbachia.</p><p>Ihre
+      gro&szlig;e Beliebtheit verdankt die Dieffenbachia vor allem der
+      besonderen Blattzeichnung. Jede Unterart hat wieder andere Bl&auml;tter,
+      deren Farben von allerlei Gr&uuml;nt&ouml;nen bis hin zu Gelb und
+      Wei&szlig; variieren. Mit dieser Pflanze holen Sie sich auch gleich
+      gesunde Luft ins Haus, denn die Dieffenbachia hat nat&uuml;rliche
+      luftreinigende F&auml;higkeiten.</p><p>Das Blatt der Dieffenbachia
+      reflector zeichnet sich durch eine sch&ouml;ne Kombination aus Dunkel- und
+      Hellgr&uuml;n aus.</p>
   - title: VESUVIUS
     image: /uploads/20151012618-Dieffenbachia Vesuvius.jpg
     description_html: >-
-      <p>De Dieffenbachia Vesuvius is een van de lichter gekleurde varianten.
-      Het licht groene blad heeft heel veel schakeringen.</p>
+      <p>Die Dieffenbachia Vesuvius geh&ouml;rt zu den heller gef&auml;rbten
+      Varianten. Das hellgr&uuml;ne Blatt besticht mit interessanten
+      Schattierungen.</p>
   - title: GREEN MAGIC
     image: /uploads/20151012563-Dieffenbachia Green Magic.jpg
     description_html: >-
-      <p>Niet voor niets heet deze variant Green Magic: het lijkt wel of er heel
-      creatief een witte streep in het blad is getrokken!</p>
+      <p>Der Name &bdquo;Green Magic&ldquo; kommt nicht von ungef&auml;hr: Der
+      wei&szlig;e Streifen auf dem Blatt sieht irgendwie kreativ und auf jeden
+      Fall richtig zauberhaft aus!</p>
 order: 1
 ---
 
