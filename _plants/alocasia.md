@@ -48,33 +48,36 @@ variants:
   - title: DWARF AMAZONICA
     image: /uploads/20151012550-Alocasia Dwarf Amazonica_website.jpg
     description_html: >-
-      <p>Z&rsquo;n bijnaam is niet vriendelijk: de skeletplant! Maar de
-      uitstraling van de Alocasia Dwarf Amazonica des te meer. Zet &lsquo;m in
-      de huiskamer en je hebt er een groene eyecatcher bij. Hoewel,
-      groen&hellip; het donkergroene blad wordt doorsneden door bijna witte
-      bladnerven. Decoratief? Reken maar!</p>
+      <p>Ihr Trivialname klingt etwas gruselig: Skelettpflanze. Mit ihrer tollen
+      Ausstrahlung macht die Alocasia Dwarf Amazonica das aber mehr als wett. Im
+      Wohnzimmer stiehlt sie als gr&uuml;ner Hingucker die Schau. Obwohl, ganz
+      gr&uuml;n ist sie gar nicht &hellip; Das dunkelgr&uuml;ne Blatt ist
+      durchzogen von fast wei&szlig;en Blattadern. Dekorativ? Na, und ob!</p>
   - title: PORTADORA
     image: /uploads/alocasia-portadora.jpg
     description_html: >-
-      <p>Het is de allemansvriend van de familie. Want de Alocasia Portadora
-      staat al in vele huiskamers te pronken. De bladeren zijn groot met een
-      lichte karteling. En groeien is z'n hobby. Kijk maar uit, want met de
-      juiste verzorging is je kamer straks nog te klein voor deze
-      Olifantsoor...</p>
+      <p>Ein bekanntes und beliebtes Gesicht: Die Alocasia portadora ist in
+      vielen Wohnzimmern ein gern gesehener Schmuck mit ihren gro&szlig;en,
+      leicht gekerbten Bl&auml;ttern. Ihr Hobby? Wachsen! Also Obacht: Bei guter
+      Pflege wird am Ende das Zimmer noch zu klein f&uuml;r dieses Elefantenohr
+      &hellip;</p>
   - title: PINK DRAGON
     image: /uploads/alocasia-pink-dragon.jpg
     description_html: >-
-      <p>Gevaarlijk mooi, deze Pink Dragon. Hij lijkt sterk op de Alocasia Dwarf
-      Amazonica, maar dan met een opvallend verschil. Kijk maar naar de
-      prachtige roze bladstelen en het iets rondere blad. Schuilt er een
-      drakentemmer in je? Haal dan de Pink Dragon in huis als je durft!</p>
+      <p>Gef&auml;hrlich sch&ouml;n ist diese &bdquo;Pink Dragon&ldquo;. Sie
+      &auml;hnelt stark der Alocasia Dwarf Amazonica, allerdings mit einem
+      auff&auml;lligen Unterschied: den pr&auml;chtigen rosafarbenen
+      Blattstielen und den etwas runderen Bl&auml;ttern. Haben Sie das Zeug zum
+      Drachenz&auml;hmer? Holen Sie sich dann die Pink Dragon ins Haus, wenn Sie
+      sich trauen!</p>
   - title: YUCATAN PRINCESS
     image: /uploads/alocasia-yucatan-princess.jpg
     description_html: >-
-      <p>Princess: zo&rsquo;n naam past alleen maar bij de mooiste bladplanten
-      uit de jungle. Deze Alocasia springt er in elk interieur uit, door de
-      combinatie van paars-groen blad die hier en daar een zwart accent krijgen.
-      Met recht een Koninklijke Hoogheid!</p>
+      <p>Princess: So einen Namen haben nat&uuml;rlich nur die sch&ouml;nsten
+      Blattpflanzen aus dem Dschungel verdient. Diese Alocasia ist mit ihren
+      violett-gr&uuml;nen Bl&auml;ttern, die hier und da schwarze Akzente
+      aufweisen, ein Blickfang in jeder Einrichtung. Und v&ouml;llig zu Recht
+      eine k&ouml;nigliche Hoheit!</p><p>&nbsp;</p>
 order: 1
 ---
 
