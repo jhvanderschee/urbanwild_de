@@ -6,15 +6,15 @@ slider:
     text_color: light
     button_text: Hier finden Sie die Kollektion
     button_link: /kollektion
-  - title: Zuiverende planten voor gezond leven
+  - title: Luftreinigende Pflanzen für ein gesundes Lebensklima
     image: /uploads/slide-Philodendron-Xanadu.jpg
     text_color: dark
-    button_text: Ontdek wat planten jou bieden
+    button_text: 'Entdecken Sie, was Pflanzen für Sie tun'
     button_link: '/#luftreinigend'
-  - title: Hou je jungle wild!
+  - title: Halten Sie Ihren Dschungel grün!
     image: /img/slider_monstera.jpg
     text_color: light
-    button_text: Bekijk de verzorgingstips
+    button_text: Lesen Sie die Pflegetipps
     button_link: /verzorging
 ---
 
