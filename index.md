@@ -15,7 +15,7 @@ slider:
     image: /img/slider_monstera.jpg
     text_color: light
     button_text: Lesen Sie die Pflegetipps
-    button_link: /verzorging
+    button_link: /pflege
 ---
 
 
