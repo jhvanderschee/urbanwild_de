@@ -2,20 +2,20 @@
 title: DRACAENA
 image: /uploads/20151012624-Draceana Lemon Lime.jpg
 slider:
-  - title: Zuiverende planten voor gezond leven
+  - title: Luftreinigende Pflanzen für ein gesundes Lebensklima
     image: /uploads/slide-Alocasia-Wentii.jpg
     text_color: dark
-    button_text: Ontdek wat planten jou bieden
+    button_text: 'Entdecken Sie, was Pflanzen für Sie tun'
     button_link: '/#luftreinigend'
-  - title: Hou je jungle wild!
+  - title: Halten Sie Ihren Dschungel grün!
     image: /uploads/slide-Philodendron-Xanadu.jpg
     text_color: dark
-    button_text: Bekijk de verzorgingstips
-    button_link: /verzorging
-  - title: Huizen zijn er helemaal wild van!
+    button_text: Lesen Sie die Pflegetipps
+    button_link: /pflege
+  - title: Häuser sind ganz wild darauf!
     image: /uploads/sliderhome-jmplants-1.jpg
     text_color: light
-    button_text: Bekijk de collectie
+    button_text: Hier finden Sie die Kollektion
     button_link: /kollektion
 description_html: <p>De Dracaena Lemon Lime is op zijn minst sierlijk te noemen!</p>
 origin: Westafrika
