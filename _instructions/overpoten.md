@@ -1,8 +1,8 @@
 ---
-title: Overpoten
-caption: Tijdig
+title: Umtopfen
+caption: Rechtzeitig umtopfen
 image: /img/brightness.svg
 ---
 
 
-Een plant die groeit, heeft een keer een grotere pot nodig om zich te ontwikkelen. Tijdig overplanten is daarom handig om de wortels weer lucht te geven.
+Eine wachsende Pflanze braucht ab und zu einen gr&ouml;&szlig;eren Topf, um sich gut zu entwickeln. Daher empfiehlt sich rechtzeitiges Umtopfen, damit die Wurzeln wieder mehr Platz und Luft bekommen.
