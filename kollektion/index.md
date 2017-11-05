@@ -12,10 +12,10 @@ slider:
     text_color: dark
     button_text: Bekijk onze Alocasia's
     button_link: /kollektion/alocasia
-  - title: Zuiverende planten voor gezond leven
+  - title: Luftreinigende Pflanzen für ein gesundes Lebensklima
     image: /uploads/slide-Philodendron-Xanadu.jpg
     text_color: dark
-    button_text: Bekijk wat planten jou bieden
+    button_text: gesundes Lebensklima Entdecken
     button_link: '/#luftreinigend'
 ---
 
