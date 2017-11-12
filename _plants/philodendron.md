@@ -17,7 +17,7 @@ slider:
     text_color: light
     button_text: Ontdek welke jij nog mist
     button_link: /kollektion
-description_html: <p>De Pilodendronfamilie is er &eacute;&eacute;n om niet snel te vergeten!</p>
+description_html: <p>Die Philodendron-Familie macht m&auml;chtig Eindruck!</p>
 origin: Mittel- und Südamerika
 variants:
   - title: IMPERIAL RED
@@ -51,4 +51,4 @@ order: 1
 ---
 
 
-De Pilodendronfamilie is er één om niet snel te vergeten!
+Die Philodendron-Familie macht m&auml;chtig Eindruck!
