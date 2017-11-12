@@ -17,7 +17,9 @@ slider:
     text_color: light
     button_text: Hier finden Sie die Kollektion
     button_link: /kollektion
-description_html: <p>De Calathea staat erom bekend dat de bladeren lijken te 'fluisteren'.</p>
+description_html: >-
+  <p>Die Calathea ist f&uuml;r ihre &bdquo;fl&uuml;sternden&ldquo; Bl&auml;tter
+  bekannt.</p>
 origin: Südamerika
 variants:
   - title: Bicajoux Gekko
@@ -97,3 +99,4 @@ order: 1
 ---
 
 
+Die Calathea ist f&uuml;r ihre „fl&uuml;sternden“ Bl&auml;tter bekannt.
