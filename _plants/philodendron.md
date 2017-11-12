@@ -12,10 +12,10 @@ slider:
     text_color: dark
     button_text: 'Entdecken Sie, was Pflanzen für Sie tun'
     button_link: '/#luftreinigend'
-  - title: Heb jij je jungle al compleet?
+  - title: Ist Ihr Dschungel schon komplett?
     image: /uploads/sliderhome-jmplants-1.jpg
     text_color: light
-    button_text: Ontdek welke jij nog mist
+    button_text: 'Entdecken Sie, welche Pflanze Ihnen noch fehlt.'
     button_link: /kollektion
 description_html: <p>Die Philodendron-Familie macht m&auml;chtig Eindruck!</p>
 origin: Mittel- und Südamerika
@@ -51,4 +51,4 @@ order: 1
 ---
 
 
-Die Philodendron-Familie macht m&auml;chtig Eindruck!
+Die Philodendron-Familie macht mächtig Eindruck!
