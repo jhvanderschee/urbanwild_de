@@ -17,7 +17,7 @@ slider:
     text_color: light
     button_text: Hier finden Sie die Kollektion
     button_link: /kollektion
-description_html: <p>De Biophytum Sensitivum lijkt net een minipalm.</p>
+description_html: <p>Die Biophytum Sensitivum erinnert an eine Minipalme.</p>
 origin: Brasilien
 variants:
   - title: SENSITIVUM
@@ -34,3 +34,4 @@ order: 1
 ---
 
 
+Die Biophytum Sensitivum erinnert an eine Minipalme.
