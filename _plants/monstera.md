@@ -12,10 +12,10 @@ slider:
     text_color: light
     button_text: 'Entdecken Sie, was Pflanzen für Sie tun'
     button_link: /luftreinigend
-  - title: Heb jij je jungle al compleet?
+  - title: Ist Ihr Dschungel schon komplett?
     image: /uploads/slide-Philodendron-Xanadu.jpg
     text_color: dark
-    button_text: Ontdek welke jij nog mist
+    button_text: 'Entdecken Sie, welche Pflanze Ihnen noch fehlt.'
     button_link: /kollektion
 description_html: '<p>Ganz sch&ouml;n wild sieht sie aus, die Monstera.</p>'
 origin: Mittelamerika
