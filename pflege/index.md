@@ -7,10 +7,10 @@ slider:
     text_color: light
     button_text: 'Entdecken Sie, was Pflanzen für Sie tun'
     button_link: '/#Luftreinigend'
-  - title: Is jouw jungle al compleet?
+  - title: Ist Ihr Dschungel schon komplett?
     image: /img/kasslide.jpg
     text_color: light
-    button_text: Ontdek welke jij nog mist
+    button_text: 'Entdecken Sie, welche Pflanze Ihnen noch fehlt.'
     button_link: /kollektion
   - title: Häuser sind ganz wild darauf!
     image: /uploads/slide-Alocasia-Wentii.jpg
