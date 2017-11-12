@@ -2,15 +2,15 @@
 title: Kollektion
 layout: collectie
 slider:
-  - title: Wie wil deze beauty nou niet?
+  - title: Wer würde diese wilde Schönheit nicht haben wollen?
     image: /uploads/slide-Monstera.jpg
     text_color: light
-    button_text: Bekijk onze monsterlijk mooie collectie
+    button_text: Entdecken Sie unsere monstermäßig schöne Kollektion
     button_link: /kollektion
-  - title: Onze collectie
+  - title: Unsere Kollektion
     image: /uploads/slide-collectie-jmplants-2.jpg
     text_color: dark
-    button_text: Bekijk onze Alocasia's
+    button_text: Entdecken Sie unsere Alocasien
     button_link: /kollektion/alocasia
   - title: Luftreinigende Pflanzen für ein gesundes Lebensklima
     image: /uploads/slide-Philodendron-Xanadu.jpg
