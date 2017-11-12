@@ -17,7 +17,7 @@ slider:
     text_color: light
     button_text: Hier finden Sie die Kollektion
     button_link: /kollektion
-description_html: <p>De Dracaena Lemon Lime is op zijn minst sierlijk te noemen!</p>
+description_html: <p>Die Dracaena Lemon Lime ist eine wahre Zierde!</p>
 origin: Westafrika
 variants:
   - title: LEMON LIME
@@ -31,4 +31,4 @@ order: 1
 ---
 
 
-De Dracaena Lemon Lime is op zijn minst sierlijk te noemen!
+Die Dracaena Lemon Lime ist eine wahre Zierde!
