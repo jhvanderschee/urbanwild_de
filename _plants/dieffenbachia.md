@@ -17,7 +17,7 @@ slider:
     text_color: light
     button_text: Hier finden Sie die Kollektion
     button_link: /kollektion
-description_html: <p>Met een Dieffenbachia in huis zuiver je meteen de lucht!</p>
+description_html: <p>Die Dieffenbachia sorgt f&uuml;r reine Luft im Haus!</p>
 origin: Süd- und Mittelamerika
 variants:
   - title: REFLECTOR
@@ -49,4 +49,4 @@ order: 1
 ---
 
 
-Met een Dieffenbachia in huis zuiver je meteen de lucht!
+Die Dieffenbachia sorgt f&uuml;r reine Luft im Haus!
