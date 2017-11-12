@@ -17,7 +17,7 @@ slider:
     text_color: light
     button_text: Hier finden Sie die Kollektion
     button_link: /kollektion
-description_html: <p>De Alocasia wordt ook wel &lsquo;Olifantsoor&rsquo; genoemd.</p>
+description_html: <p>Die Alocasia ist auch als &bdquo;Elefantenohr&ldquo; bekannt.</p>
 origin: Südostasien
 variants:
   - title: WENTII
@@ -82,4 +82,4 @@ order: 1
 ---
 
 
-De Alocasia wordt ook wel ‘Olifantsoor’ genoemd.
+Die Alocasia ist auch als „Elefantenohr“ bekannt.
