@@ -1,7 +1,7 @@
 ---
 title: Umtopfen
 caption: Rechtzeitig umtopfen
-image: /img/brightness.svg
+image: /img/overpoten.svg
 ---
 
 
